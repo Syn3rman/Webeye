@@ -29,3 +29,4 @@ URL personalisation and shortener with tracking capabilities
 - [ ] IP logging
 - [ ] Geolocation lookup
 - [ ] Email tracking
+- [ ] Deployement :))
